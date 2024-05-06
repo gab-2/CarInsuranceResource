@@ -12,16 +12,13 @@ builder.Services.AddSwaggerGen(c =>
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Car Insurance API", Version = "v1" });
 });
 
-var creditScoreData = CreditScoreCsvLoader.LoadFromCsv("Car_Insurance_Claim.csv");
+var creditScoreData = CreditScoreCsvLoader.LoadFromCsv("./wwwroot/Car_Insurance_Claim.csv");
 builder.Services.AddSingleton(new CreditScoreService(creditScoreData));
 
 var app = builder.Build();
 
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Car Insurance API v1"));
-}
+app.UseSwagger();
+app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Car Insurance API v1"));
 
 app.UseHttpsRedirection();
 app.UseAuthorization();

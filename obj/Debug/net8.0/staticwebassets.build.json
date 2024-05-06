@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "AxZT9FptDkg7SfA34Qxn7s4eqEoMN5oRgLQ07acmyRs=",
+  "Hash": "yIImT/LSNRcF/YKVY9Ppf9WvePqhr3A0Zr5UpD8m+o0=",
   "Source": "CarInsuranceApi",
   "BasePath": "_content/CarInsuranceApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "CarInsuranceApi\\wwwroot",
+      "Source": "CarInsuranceApi",
+      "ContentRoot": "E:\\Faculdade\\2024 - 1\\Tecnicas Avancadas de Construcao de Software\\Seguro de Veiculos\\CarInsuranceApi\\wwwroot\\",
+      "BasePath": "_content/CarInsuranceApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Faculdade\\2024 - 1\\Tecnicas Avancadas de Construcao de Software\\Seguro de Veiculos\\CarInsuranceApi\\wwwroot\\Car_Insurance_Claim.csv",
+      "SourceId": "CarInsuranceApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Faculdade\\2024 - 1\\Tecnicas Avancadas de Construcao de Software\\Seguro de Veiculos\\CarInsuranceApi\\wwwroot\\",
+      "BasePath": "_content/CarInsuranceApi",
+      "RelativePath": "Car_Insurance_Claim.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Car_Insurance_Claim.csv"
+    }
+  ]
 }
