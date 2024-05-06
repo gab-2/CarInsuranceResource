@@ -1,0 +1,5 @@
+E:\Faculdade\2024 - 1\Tecnicas Avancadas de Construcao de Software\Seguro de Veiculos\CarInsuranceApi\CarInsuranceApi.Tests\CarInsuranceApi.Tests\obj\Debug\net8.0\CarInsuranceApi.Tests.csproj.AssemblyReference.cache
+E:\Faculdade\2024 - 1\Tecnicas Avancadas de Construcao de Software\Seguro de Veiculos\CarInsuranceApi\CarInsuranceApi.Tests\CarInsuranceApi.Tests\obj\Debug\net8.0\CarInsuranceApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\2024 - 1\Tecnicas Avancadas de Construcao de Software\Seguro de Veiculos\CarInsuranceApi\CarInsuranceApi.Tests\CarInsuranceApi.Tests\obj\Debug\net8.0\CarInsuranceApi.Tests.AssemblyInfoInputs.cache
+E:\Faculdade\2024 - 1\Tecnicas Avancadas de Construcao de Software\Seguro de Veiculos\CarInsuranceApi\CarInsuranceApi.Tests\CarInsuranceApi.Tests\obj\Debug\net8.0\CarInsuranceApi.Tests.AssemblyInfo.cs
+E:\Faculdade\2024 - 1\Tecnicas Avancadas de Construcao de Software\Seguro de Veiculos\CarInsuranceApi\CarInsuranceApi.Tests\CarInsuranceApi.Tests\obj\Debug\net8.0\CarInsuranceApi.Tests.csproj.CoreCompileInputs.cache
